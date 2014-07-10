@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-chdir('/Users/arnoldj/Desktop/') or die "$!";
+chdir('/Users/CoasterK/Desktop/') or die "$!";
 
 
 # LEAF ERROR CHECKER
@@ -417,12 +417,6 @@ qr/ unde-([a-z]+)/,
 qr/([^o])ncei([a-z]+)/,
 qr/ nineteneth /,
 qr/([a-z]+)ble([fghjklnpqvwxyz])([a-z]+) /,
-qr/([bcdfghjklmnpqrstvwxyz]+)crv([aeiou]+)/,
-qr/ isl /,
-qr/aftemoon/,
-qr/additon/,
-qr/horrifed/,
-qr/ aybe /,
 );
 
 # CONSONANTS SET
